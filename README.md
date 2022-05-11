@@ -5,9 +5,8 @@ Please make sure you have the following installed
 
 
 ## Setting up
-1. Host this repository in your personal github account with name **recruit-interview**
-2. Send us the link of your github repository in slack
-3. Run following command to install dependencies
+1. Clone the repo and change the working directory to snake-game-react `cd snake-game-react`
+2. Run following command to install dependencies
     ```bash
     yarn
     ```
