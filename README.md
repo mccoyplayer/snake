@@ -10,6 +10,8 @@ Please make sure you have the following installed
     ```bash
     yarn
     ```
+3. You can push your changes to this repo by creating a new branch on your name.
+
 Now you are ready for the challenges!
 
 # Challenge #1
